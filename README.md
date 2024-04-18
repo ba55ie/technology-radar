@@ -1,6 +1,8 @@
 # Technology Radar
 
-VI Company Front-end Technology Radar
+The VI Company Front-end Technology Radar.
+
+You can find the [latest version from the `main` branch here](https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/ba55ie/technology-radar/main/radar.json).
 
 ## What's a Technology Radar?
 
@@ -13,4 +15,4 @@ The rings are:
 - **Assess**. Things to look at closely, but not necessarily trial yet — unless you think they would be a particularly good fit for you.
 - **Hold**. Proceed with caution.
 
-Explore the interactive version by quadrant, or download the PDF to read the Radar in full. If you want to learn more about the Radar, how to use it or how it’s built, check out the [FAQ](https://www.thoughtworks.com/radar/faq).
+If you want to learn more about the Radar, how to use it or how it’s built, check out the [FAQ](https://www.thoughtworks.com/radar/faq).
