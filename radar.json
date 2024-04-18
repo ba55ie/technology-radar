@@ -1,0 +1,284 @@
+[
+  {
+    "name": "SCSS",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Sass is a CSS extension language."
+  },
+  {
+    "name": "Fractal",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Fractal is a tool to help you build and document web component libraries, and then integrate them into your projects."
+  },
+  {
+    "name": "Grunt",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "A JavaScript Task Runner"
+  },
+  {
+    "name": "Vue 2",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "The deprecated version of Vue - The Progressive JavaScript Framework"
+  },
+  {
+    "name": "NUXT 2",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "The deprecated version of Nuxt - The Intuitive Vue Framework"
+  },
+  {
+    "name": "Stylelint",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "A CSS linter"
+  },
+  {
+    "name": "Tailwind",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Unmaintainable inline CSS with class names"
+  },
+  {
+    "name": "Lightweight Charts",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Your dream of tiny, yet mighty, interactive charts is now a reality"
+  },
+  {
+    "name": "Angular",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Angular is an application-design framework and development platform for creating efficient and sophisticated single-page apps."
+  },
+  {
+    "name": "PWA APIs",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "https://web.dev/explore/progressive-web-apps"
+  },
+  {
+    "name": "Bun",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Bun is a fast JavaScript all-in-one toolkit|"
+  },
+  {
+    "name": "Deno",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Next-generation JavaScript runtime"
+  },
+  {
+    "name": "JSR.io",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "The open-source package registry for modern JavaScript and TypeScript"
+  },
+  {
+    "name": "OAuth Client*",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": ""
+  },
+  {
+    "name": "Biome.js",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "One toolchain for your web project"
+  },
+  {
+    "name": "@fastify/vite",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Integrate Fastify and Vite to create a minimal, low overhead, blazing fast™ setup for full stack monoliths"
+  },
+  {
+    "name": "Starlight",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Make your docs shine with Starlight"
+  },
+
+  {
+    "name": "Externe component libs (Vuetify, PrimeVue, etc)",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Add more value than creating a button for the nth time"
+  },
+  {
+    "name": "Copilot (Github/MS)",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "AI pair programmer"
+  },
+  {
+    "name": "European Accessibility Act 2025",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Based on the Web Content Accessibility Guidelines (WCAG)"
+  },
+  {
+    "name": "Openprops CSS",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Supercharged CSS variables"
+  },
+  {
+    "name": "Nano Stores",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "A tiny state manager for React, React Native, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS. "
+  },
+  {
+    "name": "React",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "A framework by Meta"
+  },
+  {
+    "name": "Svelte",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Cybernetically enhanced web apps"
+  },
+
+  {
+    "name": "JAM stack",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Jamstack is an architectural approach that decouples the web experience layer from data and business logic, improving flexibility, scalability, performance, and maintainability."
+  },
+  {
+    "name": "GraphQL",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A query language for your API"
+  },
+  {
+    "name": "Web Components / Lit",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Web Components is a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps."
+  },
+  {
+    "name": "Mobile first",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Mobile first, a form of progressive enhancement, is a web-development and web-design approach that focuses on prioritizing design and development for mobile screen sizes over design and development for desktop screen sizes."
+  },
+  {
+    "name": "Vue",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "An approachable, performant and versatile framework for building web user interfaces. "
+  },
+  {
+    "name": "Pinia",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "The intuitive store for Vue.js"
+  },
+  {
+    "name": "Vite",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Next Generation Frontend Tooling"
+  },
+  {
+    "name": "Vitest",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Next Generation Testing Framework"
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Accelerate how you build, share, and run applications"
+  },
+  {
+    "name": "Entra ID (AAD)",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Microsoft Entra ID is a cloud-based identity and access management service that enables your employees access external resources. "
+  },
+  {
+    "name": "Astro",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "The web framework for content-driven websites"
+  },
+  {
+    "name": "Highcharts",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Interactive charting library"
+  },
+  {
+    "name": "TypeScript",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
+  },
+  {
+    "name": "Meilisearch",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Meilisearch is a flexible and powerful user-focused search engine that can be added to any website or application. "
+  },
+  {
+    "name": "Monorepos",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A monorepo is a single repository containing multiple distinct projects"
+  },
+  {
+    "name": "Prettier",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "An opinionated code formatter"
+  }
+]
